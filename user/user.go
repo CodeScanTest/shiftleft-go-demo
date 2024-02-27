@@ -27,6 +27,7 @@ pass : govwauser1
 
 */
 
+
 type Self struct{} //oop like syntax
 
 func New() *Self {
